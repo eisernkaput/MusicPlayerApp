@@ -1,0 +1,221 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Music Player App</string>
+
+    <string name="category_search">Search</string>
+
+    <string name="category_albums">Albums</string>
+
+    <string name="category_artists">Artists</string>
+
+    <string name="category_genres">Genres</string>
+
+    <string name="category_playlists">Playlists</string>
+
+    <string name="category_folders">Folders</string>
+
+    <string name="album_image">Album image</string>
+
+    <string name="category_icon">Category icon</string>
+
+    <string name="now_playing_activity">Now Playing</string>
+
+    <string name="current_playlist_activity">Playlist</string>
+
+    <string name="search_hint">Searching music</string>
+
+
+    <string-array name="artists">
+        <item>Judas Priest</item>
+        <item>Metallica</item>
+        <item>System of a Down</item>
+    </string-array>
+
+    <string-array name="albums">
+        <item>Turbo</item>
+        <item>Ram It Down</item>
+        <item>Firepower</item>
+        <item>Master of Puppets</item>
+        <item>…And Justice for All</item>
+        <item>St. Anger</item>
+        <item>Toxicity</item>
+        <item>Mezmerize</item>
+        <item>Hypnotize</item>
+
+    </string-array>
+
+    <string-array name="folders">
+        <item>Judas Priest</item>
+        <item>Metallica</item>
+        <item>System of a Down</item>
+        <item>Turbo </item>
+        <item>Ram It Down</item>
+        <item>Firepower</item>
+        <item>Master of Puppets</item>
+        <item>…And Justice for All</item>
+        <item>St. Anger</item>
+        <item>Toxicity</item>
+        <item>Mezmerize</item>
+        <item>Hypnotize</item>
+    </string-array>
+
+    <string-array name="genres">
+        <item>Trash metal</item>
+        <item>Heavy metal</item>
+        <item>Alternative metal</item>
+        <item>Nu metal</item>
+        <item>Hard rock</item>
+    </string-array>
+
+    <string-array name="playlists">
+        <item>playlist1</item>
+        <item>morning</item>
+        <item>training</item>
+    </string-array>
+
+
+    <string-array name="turbo">
+        <item>Turbo Lover - Judas Priest\n5:33</item>
+        <item>Locked In - Judas Priest\n4:19</item>
+        <item>Private Property - Judas Priest\n4:29</item>
+        <item>Parental Guidance - Judas Priest\n3:25</item>
+        <item>Rock You All Around the World - Judas Priest\n3:37</item>
+        <item>Out in the Cold - Judas Priest\n6:27</item>
+        <item>Wild Nights, Hot &amp; Crazy Days - Judas Priest\n4:39</item>
+        <item>Hot for Love - Judas Priest\n4:12</item>
+        <item>Reckless - Judas Priest\n4:17</item>
+    </string-array>
+
+    <string-array name="ram_it_down">
+
+        <item>Ram It Down - Judas Priest\n4:48</item>
+        <item>Heavy Metal - Judas Priest\n5:58</item>
+        <item>Love Zone - Judas Priest\n3:58</item>
+        <item>Come and Get It - Judas Priest\n4:07</item>
+        <item>Hard as Iron - Judas Priest\4:09</item>
+        <item>Blood Red Skies - Judas Priest\n7:50</item>
+        <item>I\'m a Rocker - Judas Priest\n3:58</item>
+        <item>Johnny B. Goode - Judas Priest\n4:39</item>
+        <item>Love You to Death - Judas Priest\n4:36</item>
+        <item>Monsters of Rock - Judas Priest\n5:30</item>
+    </string-array>
+
+    <string-array name="firepower">
+
+        <item>Firepower - Judas Priest\n3:27</item>
+        <item>Lightning Strike - Judas Priest\n3:29</item>
+        <item>Evil Never Dies - Judas Priest\n4:23</item>
+        <item>Never the Heroes - Judas Priest\n4:23</item>
+        <item>Necromancer - Judas Priest\n3:33</item>
+        <item>Children of the Sun - Judas Priest\n4:00</item>
+        <item>Guardians - Judas Priest\n1:06</item>
+        <item>Rising from Ruins - Judas Priest\n5:23</item>
+        <item>Flame Thrower - Judas Priest\n4:34</item>
+        <item>Spectre - Judas Priest\n4:25</item>
+        <item>Traitors Gate - Judas Priest\n5:43</item>
+        <item>No Surrender - Judas Priest\n2:54</item>
+        <item>Lone Wolf - Judas Priest\n5:09</item>
+        <item>Sea of Red - Judas Priest\n5:51</item>
+    </string-array>
+
+    <string-array name="master_of_puppets">
+
+        <item>Battery - Metallica\n5:13</item>
+        <item>Master of Puppets - Metallica\n8:36</item>
+        <item>The Thing That Should Not B - Metallica\n6:37</item>
+        <item>Welcome Home (Sanitarium) - Metallica\n6:28</item>
+        <item>Disposable Heroes - Metallica\n8:17</item>
+        <item>Leper Messiah - Metallica\n5:41</item>
+        <item>Orion - Metallica\n8:28</item>
+        <item>Damage Inc. - Metallica\n5:30</item>
+    </string-array>
+
+    <string-array name="and_justice_for_all">
+
+        <item>Blackened - Metallica\n9:45</item>
+        <item>…And Justice for All - Metallica\n6:25</item>
+        <item>Eye of the Beholder - Metallica\n7:26</item>
+        <item>The Shortest Straw - Metallica\n6:35</item>
+        <item>Harvester of Sorrow - Metallica\n5:45</item>
+        <item>The Frayed Ends of Sanity - Metallica\n7:43</item>
+        <item>To Live Is to Die - Metallica\n9:48</item>
+        <item>Dyers Eve - Metallica\n5:13</item>
+    </string-array>
+
+    <string-array name="st._anger">
+
+        <item>Frantic - Metallica\n5:50</item>
+        <item>St. Anger - Metallica\n7:21</item>
+        <item>Some Kind of Monster - Metallica\n8:26</item>
+        <item>Dirty Window - Metallica\n5:25</item>
+        <item>Invisible Kid - Metallica\n8:30</item>
+        <item>My World - Metallica\n5:46</item>
+        <item>Shoot Me Again - Metallica\n7:10</item>
+        <item>Sweet Amber - Metallica\n5:27</item>
+        <item>The Unnamed Feeling - Metallica\n7:10</item>
+        <item>Purify - Metallica\n5:14</item>
+        <item>All Within My Hands - Metallica\n8:48</item>
+    </string-array>
+
+    <string-array name="toxicity">
+
+        <item>Prison Song - System of a Down\n3:21</item>
+        <item>Needles - System of a Down\n3:13</item>
+        <item>Deer Dance - System of a Down\n2:55</item>
+        <item>Jet Pilot - System of a Down\n2:06</item>
+        <item>X - System of a Down\n1:58</item>
+        <item>Chop Suey - System of a Down\n3:30</item>
+        <item>Bounce - System of a Down\n1:54</item>
+        <item>Forest - System of a Down\n4:00</item>
+        <item>ATWA - System of a Down\n2:56</item>
+        <item>Science - System of a Down\n2:43</item>
+        <item>Shimmy - System of a Down\n1:51</item>
+        <item>Toxicity - System of a Down\n3:39</item>
+        <item>Psycho - System of a Down\n3:45</item>
+        <item>Aerials - System of a Down\n6:11</item>
+    </string-array>
+
+    <string-array name="mezmerize">
+
+        <item>Soldier Side - Intro - System of a Down\n1:04</item>
+        <item>B.Y.O.B. - System of a Down\n4:15</item>
+        <item>Revenga - System of a Down\n3:48</item>
+        <item>Cigaro - System of a Down\n3:48</item>
+        <item>Radio/Video - System of a Down\n4:09</item>
+        <item>This Cocaine Makes Me Feel Like I'm on This Song - System of a Down\n2:08</item>
+        <item>Violent Pornography - System of a Down\n3:31</item>
+        <item>Question! - System of a Down\n3:20</item>
+        <item>Sad Statue - System of a Down\n3:25</item>
+        <item>Old School Hollywood - System of a Down\n2:56</item>
+        <item>Lost in Hollywood - System of a Down\n5:20</item>
+    </string-array>
+
+    <string-array name="hypnotize">
+
+        <item>Attack - System of a Down\n3:06</item>
+        <item>Dreaming - System of a Down\n3:59</item>
+        <item>Kill Rock ’n Roll - System of a Down\n2:28</item>
+        <item>Hypnotize - System of a Down\n3:09</item>
+        <item>Stealing Society - System of a Down\n2:58</item>
+        <item>Tentative - System of a Down\n3:36</item>
+        <item>U-Fig - System of a Down\n2:55</item>
+        <item>Holy Mountains - System of a Down\n5:28</item>
+        <item>Vicinity of Obscenity - System of a Down\n2:51</item>
+        <item>She’s Like Heroin - System of a Down\n2:44</item>
+        <item>Lonely Day - System of a Down\n2:47</item>
+        <item>Soldier Side - System of a Down\n3:40</item>
+    </string-array>
+</resources>
